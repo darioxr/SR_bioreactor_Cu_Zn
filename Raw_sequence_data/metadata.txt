@@ -1,0 +1,7 @@
+ID	Period	Time (days)
+M1	I	0
+M2	I	6
+M3	II	166
+M4	II	202
+M5	III	341
+M6	III	351

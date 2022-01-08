@@ -1,0 +1,637 @@
+ID,Kingdom,Phylum,Class,Order,Family,Genus,Figure 3b,Figure 4 & 5,Day 0,Day 24,Day 181,Day 217,Day 356,Day 372,TOTAL
+ASV11,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Petrimonas,ASV <2% abundance,None,0.070666667,0.028985507,0.005014493,0.005173913,0.003202899,0.004710145,0.019625604
+ASV12,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Proteiniclasticum,ASV <2% abundance,None,0.058434783,0.044898551,0.001985507,0.003550725,0.002463768,0.001043478,0.018729469
+ASV14,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_ge,ASV <2% abundance,None,0.072898551,0.022637681,0,0,0,0,0.015922705
+ASV15,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,uncultured,ASV <2% abundance,None,0.043753623,0.042202899,0.001681159,0.001826087,0.00215942,0.001275362,0.015483092
+ASV20,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0,0.089463768,0,0,0,0,0.014910628
+ASV21,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,ASV <2% abundance,None,0,0.068536232,0,0,0,0,0.011422705
+ASV17,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,3M1PL1-52_termite_group,3M1PL1-52_termite_group_ge,ASV <2% abundance,None,0.002666667,0.017,0.009347826,0.008130435,0.013173913,0.012115942,0.010405797
+ASV25,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,uncultured,ASV <2% abundance,None,0.000101449,0.060811594,5.80E-05,8.70E-05,0,0,0.010176329
+ASV16,Bacteria,Proteobacteria,Gammaproteobacteria,Gammaproteobacteria_unclassified,Gammaproteobacteria_unclassified,Gammaproteobacteria_unclassified,ASV <2% abundance,None,0.005927536,0.00015942,0.006289855,0.004594203,0.016217391,0.022434783,0.009270531
+ASV23,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_4,Caminicella,ASV <2% abundance,None,0.017942029,0.034463768,0.00026087,0.000333333,0.000115942,0,0.008852657
+ASV18,Bacteria,Proteobacteria,Gammaproteobacteria,1013-28-CG33,1013-28-CG33_fa,1013-28-CG33_ge,ASV <2% abundance,None,0,0,0.008376812,0.006826087,0.014101449,0.023710145,0.008835749
+ASV19,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,uncultured,ASV <2% abundance,None,0.000768116,0.000362319,0.014130435,0.010289855,0.013347826,0.011043478,0.008323671
+ASV26,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.025521739,0.013289855,0.000942029,0.00126087,0.000623188,0.000217391,0.006975845
+ASV24,Bacteria,Cloacimonetes,Cloacimonadia,Cloacimonadales,Cloacimonadaceae,Cloacimonadaceae_unclassified,ASV <2% abundance,None,7.25E-05,0,0.011115942,0.009855072,0.004826087,0.006391304,0.005376812
+ASV27,Bacteria,Epsilonbacteraeota,Campylobacteria,Campylobacterales,Helicobacteraceae,Wolinella,ASV <2% abundance,None,0,0,0.006768116,0.005550725,0.012913043,0.003072464,0.004717391
+ASV29,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0,0,0.009144928,0.008217391,0.004884058,0.004014493,0.004376812
+ASV42,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0.006768116,0.017478261,0,0,0,0,0.004041063
+ASV30,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Blvii28_wastewater-sludge_group,ASV <2% abundance,None,0,0,0.008666667,0.005449275,0.004463768,0.004463768,0.00384058
+ASV37,Bacteria,Actinobacteria,Coriobacteriia,OPB41,OPB41_fa,OPB41_ge,ASV <2% abundance,None,0.00642029,0.009666667,0.001014493,0.001724638,0.003478261,0.000594203,0.003816425
+ASV39,Bacteria,Firmicutes,Bacilli,Bacillales,Family_XII,Exiguobacterium,ASV <2% abundance,None,0.013884058,0.007449275,0,0,0,0,0.003555556
+ASV34,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,ASV <2% abundance,None,0,0,0.007043478,0.004507246,0.004492754,0.003173913,0.003202899
+ASV35,Bacteria,Proteobacteria,Gammaproteobacteria,Nitrococcales,Nitrococcales_unclassified,Nitrococcales_unclassified,ASV <2% abundance,None,0,0,0.003507246,0.003072464,0.005971014,0.005942029,0.003082126
+ASV44,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.002956522,0.003942029,0.002391304,0.001869565,0.002710145,0.002826087,0.002782609
+ASV43,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium_1,ASV <2% abundance,None,0.003521739,0.000956522,0.002753623,0.003014493,0.002869565,0.002913043,0.002671498
+ASV40,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0.005115942,0,0.001797101,0.002884058,0.003028986,0.003014493,0.002640097
+ASV55,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.00326087,0.012130435,0,5.80E-05,0,0,0.002574879
+ASV38,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0,0.00115942,0.002115942,0.004724638,0.007275362,0.002545894
+ASV63,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000550725,0.01442029,0,0,0,0,0.002495169
+ASV51,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.002565217,0.005594203,0.001898551,0.002,0.000971014,0.000695652,0.00228744
+ASV50,Bacteria,Atribacteria,Caldatribacteriia,Caldatribacteriales,Caldatribacteriaceae,Candidatus_Caldatribacterium,ASV <2% abundance,None,0.003971014,0.001942029,0.002188406,0.002710145,0.001536232,0.000956522,0.002217391
+ASV73,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_4,Clostridiaceae_4_unclassified,ASV <2% abundance,None,0.000681159,0.01215942,0,0,0,0,0.002140097
+ASV48,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacteraceae_unclassified,ASV <2% abundance,None,7.25E-05,0,0.001449275,0.004231884,0.004710145,0.002101449,0.002094203
+ASV56,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Psychrobacillus,ASV <2% abundance,None,0.01042029,0.001057971,0,0,0,0,0.001913043
+ASV60,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_unclassified,ASV <2% abundance,None,0.007695652,0.003362319,0.000115942,0,0,0,0.001862319
+ASV53,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Deferribacteraceae_unclassified,ASV <2% abundance,None,0,0,0.002014493,0.001724638,0.004304348,0.002623188,0.001777778
+ASV65,Bacteria,Firmicutes,Clostridia,Clostridiales,Heliobacteriaceae,Heliobacteriaceae_unclassified,ASV <2% abundance,None,0.002246377,0.006188406,0.000855072,0.000724638,0.000362319,0.000231884,0.001768116
+ASV52,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,ASV <2% abundance,None,0,0,0.002101449,0.002797101,0.00326087,0.002130435,0.001714976
+ASV67,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Sedimentibacter,ASV <2% abundance,None,0.004043478,0.004028986,0.00073913,0.000710145,0.000449275,0.000246377,0.001702899
+ASV58,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.009869565,0,0,0,0,0,0.001644928
+ASV57,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0.000304348,0.000391304,0.003434783,0.003101449,0.001246377,0.001304348,0.001630435
+ASV62,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Solibacillus,ASV <2% abundance,None,0.009623188,0,0,0,0,0,0.001603865
+ASV71,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Peptococcaceae_unclassified,ASV <2% abundance,None,0.006202899,0.003333333,0,0,0,0,0.001589372
+ASV61,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0.005826087,0.000130435,0.001,0.00126087,0.000376812,0.000376812,0.001495169
+ASV85,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0.002304348,0.004768116,0.000318841,0.000507246,0.000130435,0,0.001338164
+ASV83,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0.004637681,0.003231884,0,0,0,0,0.001311594
+ASV64,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Caenispirillum,ASV <2% abundance,None,0,0,0.001898551,0.002811594,0.002115942,0.001014493,0.001306763
+ASV74,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae_unclassified,ASV <2% abundance,None,0.006246377,0,0.000507246,0.000362319,0.00026087,0.000173913,0.001258454
+ASV101,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0.001594203,0.005884058,0,0,0,0,0.001246377
+ASV113,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0,0.007376812,0,0,0,0,0.001229469
+ASV70,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,uncultured,ASV <2% abundance,None,0.000115942,0,0.002695652,0.001913043,0.001898551,0.000681159,0.001217391
+ASV109,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_ge,ASV <2% abundance,None,0.001072464,0.006173913,0,0,0,0,0.001207729
+ASV76,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000869565,0.001507246,0.001811594,0.001695652,0.000956522,0.000362319,0.001200483
+ASV93,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_ge,ASV <2% abundance,None,0.00226087,0.004927536,0,0,0,0,0.001198068
+ASV69,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Blvii28_wastewater-sludge_group,ASV <2% abundance,None,0,0,0.00142029,0.001391304,0.001637681,0.002695652,0.001190821
+ASV68,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0,0,0.002405797,0.002144928,0.00142029,0.001144928,0.00118599
+ASV87,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0.001985507,0.002956522,0.000681159,0.000884058,0.000376812,0.000188406,0.001178744
+ASV72,Bacteria,Proteobacteria,Deltaproteobacteria,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,ASV <2% abundance,None,0,0,0.001434783,0.00142029,0.002202899,0.001927536,0.001164251
+ASV79,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.006927536,0,0,0,0,0,0.001154589
+ASV105,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_UCG-010,ASV <2% abundance,None,0.001898551,0.004898551,0,5.80E-05,0,0,0.001142512
+ASV78,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Rikenellaceae_unclassified,ASV <2% abundance,None,0.005463768,0,0.000565217,0.000333333,0.00026087,0.000144928,0.001128019
+ASV89,Bacteria,Firmicutes,Bacilli,Bacillales,Family_XII,Exiguobacterium,ASV <2% abundance,None,0.004,0.002478261,0,0,0,0,0.00107971
+ASV75,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0.000101449,0.000217391,0.001565217,0.00126087,0.001724638,0.001521739,0.001065217
+ASV84,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Psychrobacillus,ASV <2% abundance,None,0.006347826,0,0,0,0,0,0.001057971
+ASV103,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0.00273913,0.003536232,0,0,0,0,0.001045894
+ASV81,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paludibacteraceae,uncultured,ASV <2% abundance,None,0,0,0.002101449,0.001565217,0.000971014,0.001246377,0.000980676
+ASV98,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0.004753623,0.000782609,0,0,0,0,0.000922705
+ASV108,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium_9,ASV <2% abundance,None,0.004028986,0.001449275,0,0,0,0,0.000913043
+ASV111,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophomonas,ASV <2% abundance,None,0.000666667,0.002289855,0.000521739,0.001028986,0.000536232,0.000275362,0.000886473
+ASV115,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.001115942,0.002362319,0.001086957,0.000594203,0,0,0.000859903
+ASV91,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.00515942,0,0,0,0,0,0.000859903
+ASV88,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,Rhodocyclaceae_unclassified,ASV <2% abundance,None,0,0,0.001753623,0.001782609,0.000985507,0.000594203,0.000852657
+ASV137,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0,0.004898551,7.25E-05,0,0,2.90E-05,0.000833333
+ASV132,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0.001376812,0.003492754,0,0,0,0,0.000811594
+ASV110,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Sedimentibacter,ASV <2% abundance,None,0.004202899,0.000536232,0,0,0,0,0.000789855
+ASV129,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.001289855,0.003434783,0,0,0,0,0.00078744
+ASV119,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.003,0.001478261,0.000101449,0.000101449,0,0,0.000780193
+ASV114,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,uncultured,ASV <2% abundance,None,0.003434783,0.000869565,7.25E-05,0.000130435,0.000144928,0,0.000775362
+ASV139,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0.000536232,0.004072464,0,0,0,0,0.000768116
+ASV99,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Betaproteobacteriales_unclassified,Betaproteobacteriales_unclassified,ASV <2% abundance,None,0,0,0.000521739,0.000869565,0.001724638,0.001304348,0.000736715
+ASV117,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0.003797101,0.00057971,0,0,0,0,0.000729469
+ASV92,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Betaproteobacteriales_unclassified,Betaproteobacteriales_unclassified,ASV <2% abundance,None,1.45E-05,0,0.000768116,0.001231884,0.001855072,0.000434783,0.000717391
+ASV124,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Sedimentibacter,ASV <2% abundance,None,0.001811594,0.001695652,0.000173913,0.000202899,0.000217391,0.000144928,0.000707729
+ASV122,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XIII,Family_XIII_unclassified,ASV <2% abundance,None,0.003130435,0.001043478,5.80E-05,0,0,0,0.000705314
+ASV104,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Thermincola,ASV <2% abundance,None,0,0.000275362,0.000884058,0.000884058,0.000971014,0.000971014,0.000664251
+ASV106,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0,0,0.000971014,0.001304348,0.001,0.000695652,0.000661836
+ASV120,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0.003956522,0,0,0,0,0,0.00065942
+ASV131,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_4,Caminicella,ASV <2% abundance,None,0.00073913,0.002,0.000347826,0.00026087,0.000246377,0.00026087,0.000642512
+ASV118,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,8.70E-05,0.000347826,0.000927536,0.001478261,0.000463768,0.000347826,0.000608696
+ASV136,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_ge,ASV <2% abundance,None,0.002434783,0.001144928,4.35E-05,0,0,0,0.000603865
+ASV142,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0.001811594,0.001753623,0,0,0,0,0.000594203
+ASV150,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_ge,ASV <2% abundance,None,0.001304348,0.002101449,0,0,0,0,0.000567633
+ASV162,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000753623,0.002449275,0.000130435,0,0,0,0.000555556
+ASV168,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_4,Clostridiaceae_4_unclassified,ASV <2% abundance,None,0.000985507,0.00226087,0,0,0,0,0.000541063
+ASV141,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.001869565,0.001333333,4.35E-05,0,0,0,0.000541063
+ASV146,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacteriaceae_unclassified,ASV <2% abundance,None,0.000492754,0.001231884,0.00057971,0.000275362,0.000362319,0.000188406,0.000521739
+ASV165,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0.001028986,0.002086957,0,0,0,0,0.000519324
+ASV186,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0,0.003072464,0,0,0,0,0.000512077
+ASV130,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,uncultured,ASV <2% abundance,None,0,0,0.000623188,0.000811594,0.001217391,0.00042029,0.000512077
+ASV158,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.001768116,0.001275362,0,0,0,0,0.000507246
+ASV149,Bacteria,Proteobacteria,Deltaproteobacteria,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,ASV <2% abundance,None,0.000289855,0.001275362,0.000434783,0.000536232,0.00026087,0.000246377,0.000507246
+ASV134,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Dehalobacterium,ASV <2% abundance,None,0.000913043,0,0.000362319,0.000768116,0.000652174,0.000217391,0.000485507
+ASV181,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Syntrophobotulus,ASV <2% abundance,None,0.000507246,0.002391304,0,0,0,0,0.000483092
+ASV148,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.002811594,0,0,0,0,0,0.000468599
+ASV177,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0.000710145,0.002057971,0,0,0,0,0.000461353
+ASV190,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0.000391304,0.002304348,0,0,0,0,0.000449275
+ASV157,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolineaceae_unclassified,ASV <2% abundance,None,0.000289855,0.00057971,0.000463768,0.000623188,0.000492754,0.000173913,0.000437198
+ASV187,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000492754,0.002101449,0,0,0,0,0.000432367
+ASV127,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000101449,0,0.000246377,0.000188406,0.000347826,0.001652174,0.000422705
+ASV145,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Rugamonas,ASV <2% abundance,None,0,0,0.000927536,0.000826087,0.000376812,0.000405797,0.000422705
+ASV167,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,ASV <2% abundance,None,0.001449275,0.000652174,8.70E-05,0.000115942,0.000217391,0,0.00042029
+ASV144,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0.00057971,0.000971014,0.000652174,0.000275362,0.000413043
+ASV143,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Rugamonas,ASV <2% abundance,None,0,0,0.00084058,0.000898551,0.000478261,0.000231884,0.000408213
+ASV204,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000463768,0.001956522,0,0,0,0,0.000403382
+ASV140,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_unclassified,ASV <2% abundance,None,0,0,0.000623188,0.001057971,0.000449275,0.000275362,0.000400966
+ASV154,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0.002405797,0,0,0,0,0,0.000400966
+ASV159,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Beijerinckiaceae,Beijerinckiaceae_unclassified,ASV <2% abundance,None,0.001463768,0.000478261,0.00015942,0.000115942,0.000115942,2.90E-05,0.00039372
+ASV178,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000333333,0.001028986,0.000478261,0.000507246,0,0,0.000391304
+ASV163,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Peptococcaceae_unclassified,ASV <2% abundance,None,0.002318841,0,0,0,0,0,0.000386473
+ASV164,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000275362,0.000666667,0.000304348,0.000608696,0.000333333,0.000115942,0.000384058
+ASV188,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium_9,ASV <2% abundance,None,0.001478261,0.000811594,0,0,0,0,0.000381643
+ASV179,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0.000463768,0.001304348,0.000217391,0.000275362,0,0,0.000376812
+ASV180,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0.001681159,0.000492754,0,0,0,0,0.000362319
+ASV152,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Deferribacteraceae_unclassified,ASV <2% abundance,None,0,0,0.000289855,0.00026087,0.001014493,0.000608696,0.000362319
+ASV155,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,EBM-39,ASV <2% abundance,None,0,0,0.00026087,0.000405797,0.001014493,0.000449275,0.000355072
+ASV200,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0.000826087,0.001275362,0,0,0,0,0.000350242
+ASV160,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Longilinea,ASV <2% abundance,None,0,0,0.000362319,0.000246377,0.000971014,0.000507246,0.000347826
+ASV185,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium_1,ASV <2% abundance,None,0.001130435,0.000956522,0,0,0,0,0.000347826
+ASV166,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_ge,ASV <2% abundance,None,0,0,0.000217391,0.000144928,0.000521739,0.001115942,0.000333333
+ASV199,Bacteria,Actinobacteria,Coriobacteriia,OPB41,OPB41_fa,OPB41_ge,ASV <2% abundance,None,0.001289855,0.000536232,0,0.000115942,0,0,0.000323671
+ASV193,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XIII,Family_XIII_unclassified,ASV <2% abundance,None,0,0.000898551,0.000275362,0.000405797,0.000246377,0.000101449,0.000321256
+ASV170,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,uncultured,ASV <2% abundance,None,0,0.000173913,0.000333333,0.000405797,0.000463768,0.000550725,0.000321256
+ASV173,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,uncultured,ASV <2% abundance,None,0,0,0.000376812,0.000405797,0.000710145,0.00042029,0.000318841
+ASV191,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0.001884058,0,0,0,0,0,0.00031401
+ASV218,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0.000478261,0.001231884,0.000144928,0,0,0,0.000309179
+ASV153,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,EBM-39,ASV <2% abundance,None,0,0,0.000246377,0.000449275,0.000927536,0.000231884,0.000309179
+ASV192,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.00184058,0,0,0,0,0,0.000306763
+ASV184,Bacteria,Chloroflexi,Anaerolineae,Caldilineales,Caldilineaceae,uncultured,ASV <2% abundance,None,0.000449275,0.000710145,0.000246377,0.000231884,0.000188406,0,0.000304348
+ASV227,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonosporaceae_unclassified,ASV <2% abundance,None,0.000333333,0.001478261,0,0,0,0,0.000301932
+ASV175,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolinea,ASV <2% abundance,None,0,0,0.000449275,0.000666667,0.000463768,0.000217391,0.000299517
+ASV174,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,ASV <2% abundance,None,0.000130435,0,0.000449275,0.000768116,0.000304348,0.000144928,0.000299517
+ASV236,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0,0.001782609,0,0,0,0,0.000297101
+ASV230,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_UCG-010,ASV <2% abundance,None,0.000231884,0.001550725,0,0,0,0,0.000297101
+ASV169,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Deferribacteraceae_unclassified,ASV <2% abundance,None,0,0,0,0,0.001028986,0.000724638,0.000292271
+ASV225,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000463768,0.001246377,0,0,0,0,0.000285024
+ASV220,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,Enterobacteriaceae_unclassified,ASV <2% abundance,None,0.000304348,0.000666667,0.000217391,0.000347826,0,0,0.000256039
+ASV232,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,[Eubacterium]_coprostanoligenes_group,ASV <2% abundance,None,0.000463768,0.000898551,8.70E-05,5.80E-05,0,0,0.000251208
+ASV182,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paludibacteraceae,uncultured,ASV <2% abundance,None,1.45E-05,0,0.000507246,0.000492754,0.000202899,0.000275362,0.000248792
+ASV212,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,uncultured,ASV <2% abundance,None,0.000536232,0,0.00015942,0.000362319,0.00042029,0,0.000246377
+ASV197,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Rhodocyclaceae,Rhodocyclaceae_unclassified,ASV <2% abundance,None,0,0,0.000550725,0.000666667,0.000130435,8.70E-05,0.00023913
+ASV208,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Solibacillus,ASV <2% abundance,None,0.001434783,0,0,0,0,0,0.00023913
+ASV215,Bacteria,Actinobacteria,Coriobacteriia,OPB41,OPB41_fa,OPB41_ge,ASV <2% abundance,None,0.000362319,0.00042029,0.000130435,0.000362319,8.70E-05,5.80E-05,0.000236715
+ASV210,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_ge,ASV <2% abundance,None,0.001405797,0,0,0,0,0,0.0002343
+ASV195,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,uncultured,ASV <2% abundance,None,0,0,0.000173913,0.000333333,0.000405797,0.000492754,0.0002343
+ASV245,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XIII,Family_XIII_unclassified,ASV <2% abundance,None,0.000811594,0.00057971,0,0,0,0,0.000231884
+ASV201,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0,0,0.000246377,0.000347826,0.000347826,0.000434783,0.000229469
+ASV198,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_unclassified,ASV <2% abundance,None,0,0,0,0.000565217,0.000608696,0.000173913,0.000224638
+ASV216,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XIII,Family_XIII_unclassified,ASV <2% abundance,None,0.001318841,0,0,0,0,0,0.000219807
+ASV207,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0,0,0.000391304,0.000391304,0.000318841,0.000202899,0.000217391
+ASV203,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcales_unclassified,Micrococcales_unclassified,ASV <2% abundance,None,0,0,0.000188406,0.000463768,0.000637681,0,0.000214976
+ASV277,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0.001275362,0,0,0,0,0.00021256
+ASV266,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto_13,ASV <2% abundance,None,0.000275362,0.000971014,0,2.90E-05,0,0,0.00021256
+ASV223,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0.00126087,0,0,0,0,0,0.000210145
+ASV214,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophomonas,ASV <2% abundance,None,0,0,4.35E-05,0.00042029,0.000405797,0.000391304,0.000210145
+ASV213,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0,0,0.000231884,0.000246377,0.000318841,0.000449275,0.000207729
+ASV229,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,BRH-c8a,ASV <2% abundance,None,0.00042029,0.000202899,0.000188406,0.000304348,0.000115942,0,0.000205314
+ASV224,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0.001231884,0,0,0,0,0,0.000205314
+ASV202,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia_unclassified,Bacteroidia_unclassified,Bacteroidia_unclassified,ASV <2% abundance,None,0,0,0.000115942,0.000231884,0.000144928,0.000710145,0.000200483
+ASV226,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0.001202899,0,0,0,0,0,0.000200483
+ASV221,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,ASV <2% abundance,None,0,0,0.000376812,0.00042029,0.000405797,0,0.000200483
+ASV247,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0.000594203,0.000594203,0,0,0,0,0.000198068
+ASV206,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Peptococcaceae_unclassified,ASV <2% abundance,None,0,0,0.000246377,0.000289855,0.000434783,0.000217391,0.000198068
+ASV228,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_ge,ASV <2% abundance,None,0.001173913,0,0,0,0,0,0.000195652
+ASV217,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_4,Clostridiaceae_4_unclassified,ASV <2% abundance,None,0,0,0.000115942,0.000217391,0.00042029,0.000405797,0.000193237
+ASV283,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,[Eubacterium]_coprostanoligenes_group,ASV <2% abundance,None,0.00026087,0.000869565,0,0,0,0,0.000188406
+ASV235,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Peptococcaceae_unclassified,ASV <2% abundance,None,0.001,0.000130435,0,0,0,0,0.000188406
+ASV300,Bacteria,Firmicutes,Clostridia,Clostridiales,Gracilibacteraceae,Gracilibacter,ASV <2% abundance,None,0,0.001115942,0,0,0,0,0.00018599
+ASV209,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia_unclassified,Bacteroidia_unclassified,Bacteroidia_unclassified,ASV <2% abundance,None,0,0,8.70E-05,0.000173913,0.000275362,0.000565217,0.000183575
+ASV308,Bacteria,Firmicutes,Bacilli,Bacillales,Family_XII,Exiguobacterium,ASV <2% abundance,None,0,0.001086957,0,0,0,0,0.000181159
+ASV291,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Fonticella,ASV <2% abundance,None,4.35E-05,0.000869565,7.25E-05,7.25E-05,0,2.90E-05,0.000181159
+ASV282,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Oxobacter,ASV <2% abundance,None,0.000507246,0.00057971,0,0,0,0,0.000181159
+ASV268,Archaea,Crenarchaeota,Bathyarchaeia,Bathyarchaeia_or,Bathyarchaeia_fa,Bathyarchaeia_ge,ASV <2% abundance,None,0.00015942,0.000710145,0.000115942,4.35E-05,4.35E-05,0,0.000178744
+ASV248,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Sedimentibacter,ASV <2% abundance,None,0.000637681,0.000391304,0,0,0,0,0.000171498
+ASV286,Bacteria,Planctomycetes,Planctomycetacia,Pirellulales,Pirellulaceae,Pirellulaceae_unclassified,ASV <2% abundance,None,0.000173913,0.00073913,5.80E-05,0,2.90E-05,0,0.000166667
+ASV250,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Sedimentibacter,ASV <2% abundance,None,0.000463768,0.000449275,0,8.70E-05,0,0,0.000166667
+ASV258,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,ASV <2% abundance,None,0.000391304,0.000217391,0.000101449,0.000130435,5.80E-05,7.25E-05,0.000161836
+ASV244,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paludibacteraceae,uncultured,ASV <2% abundance,None,0,0,0.000666667,0.000289855,0,0,0.00015942
+ASV307,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0.00026087,0.000681159,0,0,0,0,0.000157005
+ASV264,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0.000927536,0,0,0,0,0,0.000154589
+ASV274,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000173913,0.000521739,0.00015942,7.25E-05,0,0,0.000154589
+ASV338,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0,0.000913043,0,0,0,0,0.000152174
+ASV332,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Mycoplana,ASV <2% abundance,None,0.000130435,0.000768116,0,0,0,0,0.000149758
+ASV271,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_NK4A214_group,ASV <2% abundance,None,0.000391304,0.000478261,2.90E-05,0,0,0,0.000149758
+ASV278,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000884058,0,0,0,0,0,0.000147343
+ASV306,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000217391,0.000666667,0,0,0,0,0.000147343
+ASV327,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcales_unclassified,Micrococcales_unclassified,ASV <2% abundance,None,2.90E-05,0.000855072,0,0,0,0,0.000147343
+ASV290,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,Christensenellaceae_R-7_group,ASV <2% abundance,None,0.00015942,0.000478261,5.80E-05,8.70E-05,8.70E-05,0,0.000144928
+ASV265,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_UCG-010,ASV <2% abundance,None,0.00084058,0,0,0,0,1.45E-05,0.000142512
+ASV260,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0.000855072,0,0,0,0,0,0.000142512
+ASV249,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,uncultured,ASV <2% abundance,None,0.000130435,0,0.000217391,0.000289855,0.000217391,0,0.000142512
+ASV262,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolineaceae_unclassified,ASV <2% abundance,None,0,0,0.000231884,0.000101449,0.000347826,0.00015942,0.000140097
+ASV241,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Pseudoxanthomonas,ASV <2% abundance,None,0,0,0,5.80E-05,0.000550725,0.000231884,0.000140097
+ASV256,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Stenotrophomonas,ASV <2% abundance,None,0,0,0.000217391,0.000318841,0.000304348,0,0.000140097
+ASV231,Bacteria,Lentisphaerae,Lentisphaeria,Victivallales,Victivallaceae,Victivallaceae_ge,ASV <2% abundance,None,0,0,0.00026087,0.000304348,0.00015942,0.000115942,0.000140097
+ASV239,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia_unclassified,Bacteroidia_unclassified,Bacteroidia_unclassified,ASV <2% abundance,None,0,0,8.70E-05,0,0.000304348,0.000434783,0.000137681
+ASV284,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planomicrobium,ASV <2% abundance,None,0.000826087,0,0,0,0,0,0.000137681
+ASV246,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium_1,ASV <2% abundance,None,0.000666667,0,4.35E-05,0,5.80E-05,4.35E-05,0.000135266
+ASV252,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0.000217391,0.000246377,0.000217391,0.000115942,0.00013285
+ASV267,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Natranaerovirga,ASV <2% abundance,None,0,0,0.000130435,0.000449275,0,0.000217391,0.00013285
+ASV317,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Syntrophobotulus,ASV <2% abundance,None,0.00042029,0.000376812,0,0,0,0,0.00013285
+ASV257,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0.000202899,0.000173913,0.000289855,0.000115942,0.000130435
+ASV322,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0.000231884,0.000275362,0,0.000275362,0,0,0.000130435
+ASV253,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XIII,Family_XIII_unclassified,ASV <2% abundance,None,0,0,0.000101449,0.000434783,0.000246377,0,0.000130435
+ASV263,Bacteria,Proteobacteria,Deltaproteobacteria,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,ASV <2% abundance,None,0,0,0.00026087,0.000173913,0.000202899,0.000130435,0.000128019
+ASV360,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0.000768116,0,0,0,0,0.000128019
+ASV301,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0.000333333,0.00015942,0.000173913,0,8.70E-05,0.000125604
+ASV368,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0,0.00073913,0,0,0,0,0.000123188
+ASV275,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0.00073913,0,0,0,0,0,0.000123188
+ASV285,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0.000275362,0,0.000275362,0,0.000173913,0,0.000120773
+ASV330,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Natranaerovirga,ASV <2% abundance,None,7.25E-05,0.000507246,0,0,0.000144928,0,0.000120773
+ASV351,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,uncultured,ASV <2% abundance,None,0.00015942,0.000565217,0,0,0,0,0.000120773
+ASV287,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolinea,ASV <2% abundance,None,0.000101449,0.00015942,0.000231884,0.000101449,0.000115942,0,0.000118357
+ASV344,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0,0.000478261,0,0.000231884,0,0,0.000118357
+ASV289,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.000710145,0,0,0,0,0,0.000118357
+ASV295,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_ge,ASV <2% abundance,None,0.000507246,0.000188406,0,0,0,0,0.000115942
+ASV304,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto_4,ASV <2% abundance,None,0.00026087,0.00026087,0,0.000173913,0,0,0.000115942
+ASV376,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0,0.000695652,0,0,0,0,0.000115942
+ASV303,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Brevundimonas,ASV <2% abundance,None,0.000333333,0.000347826,0,0,0,0,0.000113527
+ASV364,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified,ASV <2% abundance,None,0.000217391,0.000463768,0,0,0,0,0.000113527
+ASV359,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcaceae_unclassified,ASV <2% abundance,None,8.70E-05,0.000594203,0,0,0,0,0.000113527
+ASV280,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Rugamonas,ASV <2% abundance,None,0,0,0.000202899,0.000318841,0.00015942,0,0.000113527
+ASV355,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,ASV <2% abundance,None,0.000318841,0.000347826,0,0,0,0,0.000111111
+ASV310,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.000231884,0,0.000202899,0.000217391,0,0,0.000108696
+ASV315,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Ornatilinea,ASV <2% abundance,None,0,0,0.00015942,0.000144928,0.00015942,0.000188406,0.000108696
+ASV334,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Xanthobacteraceae_unclassified,ASV <2% abundance,None,0.000289855,0.000362319,0,0,0,0,0.000108696
+ASV367,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0.000188406,0.000449275,0,0,0,0,0.00010628
+ASV273,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0,0,0,0,0.000376812,0.00026087,0.00010628
+ASV340,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_ge,ASV <2% abundance,None,0.000623188,0,0,0,0,0,0.000103865
+ASV385,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0.000623188,0,0,0,0,0.000103865
+ASV313,Bacteria,Planctomycetes,Phycisphaerae,MSBL9,SG8-4,SG8-4_ge,ASV <2% abundance,None,0,0,0.000217391,0.00015942,0.000115942,0.000130435,0.000103865
+ASV272,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,uncultured,ASV <2% abundance,None,0,0,0.000101449,7.25E-05,0.000275362,0.000173913,0.000103865
+ASV297,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,0,0,0.000217391,0.000173913,0.000217391,0,0.000101449
+ASV299,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolineaceae_unclassified,ASV <2% abundance,None,7.25E-05,0,0.000130435,0.000144928,8.70E-05,0.000173913,0.000101449
+ASV302,Bacteria,Bacteroidetes,Ignavibacteria,Kryptoniales,MSB-3C8,MSB-3C8_ge,ASV <2% abundance,None,0,0,0.000101449,0.000202899,0.00015942,0.000144928,0.000101449
+ASV288,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0,0,0.00015942,0.000173913,0.000188406,8.70E-05,0.000101449
+ASV320,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XIII,Family_XIII_unclassified,ASV <2% abundance,None,0,0,0,0.000318841,0.000173913,8.70E-05,9.66E-05
+ASV357,Bacteria,Firmicutes,Clostridia,Clostridiales,Heliobacteriaceae,Hydrogenispora,ASV <2% abundance,None,0,0.000318841,0.000144928,0,0.000115942,0,9.66E-05
+ASV326,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium_1,ASV <2% abundance,None,0.00057971,0,0,0,0,0,9.66E-05
+ASV401,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0.000565217,0,0,0,0,9.42E-05
+ASV305,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,0.000101449,0.000231884,0.000144928,8.70E-05,9.42E-05
+ASV341,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0.000550725,0,0,0,0,0,9.18E-05
+ASV405,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0,0.000550725,0,0,0,0,9.18E-05
+ASV296,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0.000231884,0.000202899,0.000115942,0,9.18E-05
+ASV293,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Enhydrobacter,ASV <2% abundance,None,0,0,0,0,0,0.000550725,9.18E-05
+ASV400,Bacteria,Firmicutes,Clostridia,Clostridiales,Gracilibacteraceae,Lutispora,ASV <2% abundance,None,0,0.000550725,0,0,0,0,9.18E-05
+ASV410,Bacteria,Actinobacteria,Actinobacteria,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,ASV <2% abundance,None,0,0.000536232,0,0,0,0,8.94E-05
+ASV321,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Betaproteobacteriales_unclassified,Betaproteobacteriales_unclassified,ASV <2% abundance,None,0,0,0,0.00015942,0.000173913,0.000202899,8.94E-05
+ASV342,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000173913,0.000304348,0,5.80E-05,0,0,8.94E-05
+ASV294,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Hyphomonas,ASV <2% abundance,None,0,0,0.000115942,0.000144928,0.000202899,7.25E-05,8.94E-05
+ASV346,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0.000536232,0,0,0,0,0,8.94E-05
+ASV269,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,uncultured,ASV <2% abundance,None,0,0,0,0,0.000536232,0,8.94E-05
+ASV318,Bacteria,Chloroflexi,Anaerolineae,SBR1031,A4b,A4b_unclassified,ASV <2% abundance,None,8.70E-05,5.80E-05,0.000115942,8.70E-05,0.000115942,5.80E-05,8.70E-05
+ASV416,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0,0.000521739,0,0,0,0,8.70E-05
+ASV324,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Stappiaceae,Polymorphum,ASV <2% abundance,None,0,0,0.00015942,0.000217391,0.000144928,0,8.70E-05
+ASV309,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobiaceae_unclassified,ASV <2% abundance,None,0,0,0.000188406,0.000144928,0.000188406,0,8.70E-05
+ASV292,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,0,0,0,0,0,0.000507246,8.45E-05
+ASV281,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.000507246,0,0,0,0,0,8.45E-05
+ASV350,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridium_sensu_stricto_4,ASV <2% abundance,None,0.000231884,0.000173913,2.90E-05,7.25E-05,0,0,8.45E-05
+ASV419,Bacteria,Firmicutes,Clostridia,DTU014,DTU014_fa,DTU014_ge,ASV <2% abundance,None,0,0.000507246,0,0,0,0,8.45E-05
+ASV397,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Peptococcaceae_unclassified,ASV <2% abundance,None,0.000144928,0.000362319,0,0,0,0,8.45E-05
+ASV347,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Sedimentibacter,ASV <2% abundance,None,0.000507246,0,0,0,0,0,8.45E-05
+ASV329,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,Smithella,ASV <2% abundance,None,0,0,7.25E-05,0,0.000405797,2.90E-05,8.45E-05
+ASV420,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0.000492754,0,0,0,0,8.21E-05
+ASV426,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0.000492754,0,0,0,0,8.21E-05
+ASV358,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0,0,0.00015942,0.00026087,0,7.25E-05,8.21E-05
+ASV427,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0.000492754,0,0,0,0,8.21E-05
+ASV343,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,ASV <2% abundance,None,0.000478261,0,0,0,0,0,7.97E-05
+ASV375,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0.000362319,0.000101449,0,0,0,0,7.73E-05
+ASV316,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_ge,ASV <2% abundance,None,0,0,0,4.35E-05,0.000246377,0.000173913,7.73E-05
+ASV354,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Oblitimonas,ASV <2% abundance,None,0,0,0,0,0.000376812,8.70E-05,7.73E-05
+ASV371,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Psychrobacillus,ASV <2% abundance,None,0.000463768,0,0,0,0,0,7.73E-05
+ASV435,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0.000449275,0,0,0,0,7.49E-05
+ASV335,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Blvii28_wastewater-sludge_group,ASV <2% abundance,None,0,0,0.000318841,0.000130435,0,0,7.49E-05
+ASV413,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,7.25E-05,0.000376812,0,0,0,0,7.49E-05
+ASV352,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,uncultured,ASV <2% abundance,None,0,0,0.000188406,0,0,0.00026087,7.49E-05
+ASV404,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0.000246377,0.000188406,0,0,0,0,7.25E-05
+ASV437,Bacteria,Halanaerobiaeota,Halanaerobiia,Halanaerobiales,Halobacteroidaceae,uncultured,ASV <2% abundance,None,0,0.000434783,0,0,0,0,7.25E-05
+ASV443,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcaceae_unclassified,ASV <2% abundance,None,0,0.00042029,0,0,0,0,7.00E-05
+ASV395,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardiaceae_unclassified,ASV <2% abundance,None,0.00042029,0,0,0,0,0,7.00E-05
+ASV333,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,ASV <2% abundance,None,0.00042029,0,0,0,0,0,7.00E-05
+ASV380,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0,0,0.000405797,0,6.76E-05
+ASV408,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000246377,0.00015942,0,0,0,0,6.76E-05
+ASV363,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000405797,0,0,0,0,0,6.76E-05
+ASV455,Bacteria,Armatimonadetes,Armatimonadetes_unclassified,Armatimonadetes_unclassified,Armatimonadetes_unclassified,Armatimonadetes_unclassified,ASV <2% abundance,None,0,0.000391304,0,0,0,0,6.52E-05
+ASV425,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000130435,0.000173913,8.70E-05,0,0,0,6.52E-05
+ASV366,Bacteria,Actinobacteria,Actinobacteria,Micromonosporales,Micromonosporaceae,Micromonosporaceae_unclassified,ASV <2% abundance,None,0.000246377,0,0,0.000115942,0,2.90E-05,6.52E-05
+ASV389,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0.000231884,0.00015942,0,0,0,0,6.52E-05
+ASV353,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Delftia,ASV <2% abundance,None,0,0,0.000130435,7.25E-05,0.000101449,7.25E-05,6.28E-05
+ASV356,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,8.70E-05,2.90E-05,0.000202899,5.80E-05,6.28E-05
+ASV384,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000376812,0,0,0,0,0,6.28E-05
+ASV336,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobiaceae_unclassified,ASV <2% abundance,None,0,0,0,0,0.000202899,0.000173913,6.28E-05
+ASV365,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacteraceae_unclassified,ASV <2% abundance,None,0,0,0,0.000144928,8.70E-05,0.000144928,6.28E-05
+ASV349,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0,0,8.70E-05,0.000173913,0.000115942,0,6.28E-05
+ASV378,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Oblitimonas,ASV <2% abundance,None,0,0,0.000202899,7.25E-05,8.70E-05,0,6.04E-05
+ASV434,Bacteria,Actinobacteria,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,ASV <2% abundance,None,0.000115942,0.000231884,0,0,0,0,5.80E-05
+ASV472,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0.000347826,0,0,0,0,5.80E-05
+ASV412,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,ASV <2% abundance,None,0.000347826,0,0,0,0,0,5.80E-05
+ASV474,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Solibacillus,ASV <2% abundance,None,0,0.000347826,0,0,0,0,5.80E-05
+ASV440,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0.000217391,0.000115942,0,0,0,0,5.56E-05
+ASV433,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000333333,0,0,0,0,0,5.56E-05
+ASV473,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Fonticella,ASV <2% abundance,None,0,0.000333333,0,0,0,0,5.56E-05
+ASV393,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0.000333333,0,0,0,0,0,5.56E-05
+ASV442,Bacteria,Acidobacteria,Acidobacteriia,Solibacterales,Solibacteraceae_(Subgroup_3),Solibacteraceae_(Subgroup_3)_unclassified,ASV <2% abundance,None,0.000115942,0.000115942,0.000101449,0,0,0,5.56E-05
+ASV483,Bacteria,Proteobacteria,Gammaproteobacteria,Nitrococcales,Halorhodospiraceae,uncultured,ASV <2% abundance,None,0,0.000333333,0,0,0,0,5.56E-05
+ASV493,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0.000318841,0,0,0,0,5.31E-05
+ASV377,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0.000188406,0,0.000130435,0,5.31E-05
+ASV387,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000318841,0,0,0,0,0,5.31E-05
+ASV450,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Peptococcaceae_unclassified,ASV <2% abundance,None,8.70E-05,0.000231884,0,0,0,0,5.31E-05
+ASV492,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Rugamonas,ASV <2% abundance,None,0,0.000318841,0,0,0,0,5.31E-05
+ASV394,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriales_unclassified,Corynebacteriales_unclassified,ASV <2% abundance,None,0.000304348,0,0,0,0,0,5.07E-05
+ASV374,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolineaceae_unclassified,ASV <2% abundance,None,0,0,5.80E-05,0.000101449,7.25E-05,5.80E-05,4.83E-05
+ASV461,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,5.80E-05,0.000231884,0,0,0,0,4.83E-05
+ASV504,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Family_XI_ge,ASV <2% abundance,None,0,0.000289855,0,0,0,0,4.83E-05
+ASV381,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus,ASV <2% abundance,None,0,0,0,0,0,0.000289855,4.83E-05
+ASV452,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillaceae_unclassified,ASV <2% abundance,None,0,8.70E-05,7.25E-05,0.000130435,0,0,4.83E-05
+ASV451,Bacteria,Planctomycetes,Phycisphaerae,Pla1_lineage,Pla1_lineage_fa,Pla1_lineage_ge,ASV <2% abundance,None,8.70E-05,0.000101449,0.000101449,0,0,0,4.83E-05
+ASV415,Bacteria,Chloroflexi,Anaerolineae,RBG-13-54-9,RBG-13-54-9_fa,RBG-13-54-9_ge,ASV <2% abundance,None,2.90E-05,0.000130435,7.25E-05,5.80E-05,0,0,4.83E-05
+ASV417,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,uncultured,ASV <2% abundance,None,0,0,0.000130435,5.80E-05,8.70E-05,1.45E-05,4.83E-05
+ASV429,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0.000275362,0,0,0,0,0,4.59E-05
+ASV509,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0,0.000275362,0,0,0,0,4.59E-05
+ASV370,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Delftia,ASV <2% abundance,None,0,0,0.000144928,5.80E-05,2.90E-05,4.35E-05,4.59E-05
+ASV510,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0.000275362,0,0,0,0,4.59E-05
+ASV392,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0,0,0,0,0.000188406,8.70E-05,4.59E-05
+ASV386,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonadaceae_unclassified,ASV <2% abundance,None,0,0,0,0.000202899,5.80E-05,0,4.35E-05
+ASV421,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,8.70E-05,7.25E-05,4.35E-05,5.80E-05,4.35E-05
+ASV403,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Kosmotogaceae_unclassified,ASV <2% abundance,None,0,0,0,0.00026087,0,0,4.35E-05
+ASV418,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0.00026087,0,0,0,0,0,4.35E-05
+ASV518,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0,0.00026087,0,0,0,0,4.35E-05
+ASV441,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0.000144928,0,5.80E-05,2.90E-05,0,2.90E-05,4.35E-05
+ASV482,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Syntrophobotulus,ASV <2% abundance,None,0.000101449,0.00015942,0,0,0,0,4.35E-05
+ASV445,Bacteria,Firmicutes,Clostridia,Clostridiales,Christensenellaceae,uncultured,ASV <2% abundance,None,0,0,0.000130435,0.000130435,0,0,4.35E-05
+ASV409,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.000144928,0,0.000101449,0,0,0,4.11E-05
+ASV523,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,GCA-900066225,ASV <2% abundance,None,0,0.000246377,0,0,0,0,4.11E-05
+ASV525,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Hathewaya,ASV <2% abundance,None,0,0.000246377,0,0,0,0,4.11E-05
+ASV524,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Intrasporangiaceae,Monashia,ASV <2% abundance,None,0,0.000246377,0,0,0,0,4.11E-05
+ASV466,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Mumia,ASV <2% abundance,None,0.000246377,0,0,0,0,0,4.11E-05
+ASV463,Bacteria,Spirochaetes,Leptospirae,Leptospirales,Leptospiraceae,RBG-16-49-21,ASV <2% abundance,None,0,0,0.000101449,0.000101449,0,4.35E-05,4.11E-05
+ASV439,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophomonas,ASV <2% abundance,None,0.000246377,0,0,0,0,0,4.11E-05
+ASV423,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0,0.000130435,0.000101449,0,0,3.86E-05
+ASV411,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,7.25E-05,0,0.00015942,0,3.86E-05
+ASV480,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000231884,0,0,0,0,0,3.86E-05
+ASV432,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,7.25E-05,0.00015942,0,0,3.86E-05
+ASV505,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0.000231884,0,0,0,0,3.86E-05
+ASV449,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified,ASV <2% abundance,None,0.000231884,0,0,0,0,0,3.86E-05
+ASV446,Bacteria,Proteobacteria,Alphaproteobacteria,Sneathiellales,Sneathiellaceae,Marinibaculum,ASV <2% abundance,None,0,0,0,1.45E-05,0.00015942,5.80E-05,3.86E-05
+ASV533,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Nocardioidaceae,Nocardioides,ASV <2% abundance,None,0,0.000202899,0,0,2.90E-05,0,3.86E-05
+ASV532,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcaceae_unclassified,ASV <2% abundance,None,0,0.000231884,0,0,0,0,3.86E-05
+ASV530,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiales_unclassified,Rhizobiales_unclassified,ASV <2% abundance,None,0,0.000231884,0,0,0,0,3.86E-05
+ASV459,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0.000231884,0,0,0,0,0,3.86E-05
+ASV457,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,ASV <2% abundance,None,0,0,0.000130435,0,0.000101449,0,3.86E-05
+ASV531,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Verticia,ASV <2% abundance,None,0,0.000231884,0,0,0,0,3.86E-05
+ASV542,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0.000217391,0,0,0,0,3.62E-05
+ASV468,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified,ASV <2% abundance,None,0,0,0,0.000217391,0,0,3.62E-05
+ASV490,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_4,Clostridiaceae_4_unclassified,ASV <2% abundance,None,0.000217391,0,0,0,0,0,3.62E-05
+ASV467,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,4.35E-05,0,0.000101449,7.25E-05,0,0,3.62E-05
+ASV502,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.000202899,0,0,0,0,0,3.38E-05
+ASV465,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0,0,0,0.000202899,3.38E-05
+ASV470,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae_unclassified,ASV <2% abundance,None,0.000202899,0,0,0,0,0,3.38E-05
+ASV549,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacteriaceae_unclassified,ASV <2% abundance,None,0,0.000202899,0,0,0,0,3.38E-05
+ASV478,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paludibacteraceae,Paludibacteraceae_unclassified,ASV <2% abundance,None,0,0,0,0,0.000130435,7.25E-05,3.38E-05
+ASV388,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonadaceae_unclassified,ASV <2% abundance,None,0,0,0,0,0.000202899,0,3.38E-05
+ASV479,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0,0,0,0,0,0.000202899,3.38E-05
+ASV506,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,ASV <2% abundance,None,0,0,7.25E-05,5.80E-05,5.80E-05,0,3.14E-05
+ASV448,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,0,0,0,0,0,0.000188406,3.14E-05
+ASV560,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Aerosphaera,ASV <2% abundance,None,0,0.000188406,0,0,0,0,3.14E-05
+ASV488,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,0,0,0.000188406,0,3.14E-05
+ASV499,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,5.80E-05,0,0,0,0.000130435,0,3.14E-05
+ASV508,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,8.70E-05,0,8.70E-05,0,1.45E-05,0,3.14E-05
+ASV438,Bacteria,Planctomycetes,Phycisphaerae,Phycisphaerae_unclassified,Phycisphaerae_unclassified,Phycisphaerae_unclassified,ASV <2% abundance,None,0,0,0,4.35E-05,7.25E-05,7.25E-05,3.14E-05
+ASV444,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonadaceae_unclassified,ASV <2% abundance,None,0,0,0.000115942,7.25E-05,0,0,3.14E-05
+ASV469,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,ASV <2% abundance,None,0,0,0,0,0.000101449,7.25E-05,2.90E-05
+ASV535,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,ASV <2% abundance,None,0,0,1.45E-05,5.80E-05,0.000101449,0,2.90E-05
+ASV460,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000173913,0,0,0,0,0,2.90E-05
+ASV568,Bacteria,Proteobacteria,Deltaproteobacteria,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,ASV <2% abundance,None,0,0.000173913,0,0,0,0,2.90E-05
+ASV516,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000173913,0,0,0,0,0,2.90E-05
+ASV570,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,ASV <2% abundance,None,0,0.000173913,0,0,0,0,2.90E-05
+ASV548,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,possible_genus_Sk018,ASV <2% abundance,None,0.000173913,0,0,0,0,0,2.90E-05
+ASV507,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0,0,0,0.000173913,0,0,2.90E-05
+ASV494,Bacteria,Actinobacteria,WCHB1-81,WCHB1-81_or,WCHB1-81_fa,WCHB1-81_ge,ASV <2% abundance,None,0,0,2.90E-05,7.25E-05,4.35E-05,2.90E-05,2.90E-05
+ASV577,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,[Eubacterium]_coprostanoligenes_group,ASV <2% abundance,None,0,0.00015942,0,0,0,0,2.66E-05
+ASV489,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,0,0,0,0,0,0.00015942,2.66E-05
+ASV453,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,ADurb.Bin120,ASV <2% abundance,None,0,0,0,0,7.25E-05,8.70E-05,2.66E-05
+ASV476,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0,0,0,0.00015942,0,2.66E-05
+ASV527,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0,0,0,7.25E-05,8.70E-05,2.66E-05
+ASV497,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0.00015942,0,0,0,0,0,2.66E-05
+ASV517,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.00015942,0,0,0,0,0,2.66E-05
+ASV522,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.00015942,0,0,0,0,0,2.66E-05
+ASV539,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.00015942,0,0,0,0,0,2.66E-05
+ASV498,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcales_unclassified,Micrococcales_unclassified,ASV <2% abundance,None,0.00015942,0,0,0,0,0,2.66E-05
+ASV487,Bacteria,Planctomycetes,Planctomycetacia,Pirellulales,Pirellulaceae,Pirellulaceae_unclassified,ASV <2% abundance,None,0,0,0,0.00015942,0,0,2.66E-05
+ASV462,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Treponema,ASV <2% abundance,None,0,0,7.25E-05,4.35E-05,4.35E-05,0,2.66E-05
+ASV519,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiae_unclassified,Verrucomicrobiae_unclassified,Verrucomicrobiae_unclassified,ASV <2% abundance,None,0,0,5.80E-05,0.000101449,0,0,2.66E-05
+ASV485,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alishewanella,ASV <2% abundance,None,0,0,5.80E-05,8.70E-05,0,0,2.42E-05
+ASV528,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0.000144928,0,0,0,0,0,2.42E-05
+ASV475,Bacteria,Proteobacteria,Deltaproteobacteria,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,ASV <2% abundance,None,0,0,4.35E-05,2.90E-05,7.25E-05,0,2.42E-05
+ASV529,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Gottschalkia,ASV <2% abundance,None,0.000144928,0,0,0,0,0,2.42E-05
+ASV545,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium_1,ASV <2% abundance,None,0.000144928,0,0,0,0,0,2.42E-05
+ASV477,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Synergistaceae_unclassified,ASV <2% abundance,None,0,0,0,0,0.000115942,2.90E-05,2.42E-05
+ASV557,Bacteria,Actinobacteria,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,ASV <2% abundance,None,0.000130435,0,0,0,0,0,2.17E-05
+ASV540,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0.000130435,0,0,0,0,0,2.17E-05
+ASV597,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Cellulosilyticum,ASV <2% abundance,None,0,0.000130435,0,0,0,0,2.17E-05
+ASV598,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Delftia,ASV <2% abundance,None,0,0.000130435,0,0,0,0,2.17E-05
+ASV484,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0,0,0.000130435,0,0,0,2.17E-05
+ASV495,Bacteria,Proteobacteria,Alphaproteobacteria,Parvibaculales,Parvibaculaceae,Parvibaculum,ASV <2% abundance,None,0,0,0,0,8.70E-05,4.35E-05,2.17E-05
+ASV559,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,uncultured,ASV <2% abundance,None,5.80E-05,0,0,2.90E-05,0,4.35E-05,2.17E-05
+ASV521,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,0,0,0,0,0,0.000115942,1.93E-05
+ASV574,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolineaceae_unclassified,ASV <2% abundance,None,0,0,0,0,5.80E-05,5.80E-05,1.93E-05
+ASV592,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Azohydromonas,ASV <2% abundance,None,0,0,0,0.000115942,0,0,1.93E-05
+ASV541,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,2.90E-05,0,4.35E-05,4.35E-05,0,0,1.93E-05
+ASV471,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XIII,Family_XIII_unclassified,ASV <2% abundance,None,0.000115942,0,0,0,0,0,1.93E-05
+ASV491,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000115942,0,0,0,0,0,1.93E-05
+ASV576,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0.000115942,0,0,0,0,0,1.93E-05
+ASV594,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0.000115942,0,0,0,0,0,1.93E-05
+ASV514,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,uncultured,ASV <2% abundance,None,0,0,0,4.35E-05,4.35E-05,2.90E-05,1.93E-05
+ASV565,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0.000101449,0,0,0,0,0,1.69E-05
+ASV607,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0,8.70E-05,0,0,0,1.45E-05,1.69E-05
+ASV586,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Polyangiaceae,Aetherobacter,ASV <2% abundance,None,0.000101449,0,0,0,0,0,1.69E-05
+ASV550,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Clostridiaceae_1_unclassified,ASV <2% abundance,None,0,0,0.000101449,0,0,0,1.69E-05
+ASV512,Bacteria,Proteobacteria,Deltaproteobacteria,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,Deltaproteobacteria_unclassified,ASV <2% abundance,None,0,0,8.70E-05,1.45E-05,0,0,1.69E-05
+ASV561,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,0.000101449,0,0,0,1.69E-05
+ASV520,Bacteria,Bacteroidetes,Ignavibacteria,Ignavibacteriales,Ignavibacteriaceae,Ignavibacterium,ASV <2% abundance,None,0,0,0,0,2.90E-05,7.25E-05,1.69E-05
+ASV503,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Micrococcales_unclassified,Micrococcales_unclassified,ASV <2% abundance,None,0.000101449,0,0,0,0,0,1.69E-05
+ASV575,Bacteria,Bacteroidetes,Bacteroidia,Sphingobacteriales,Sphingobacteriales_unclassified,Sphingobacteriales_unclassified,ASV <2% abundance,None,0,0,0,0,0,0.000101449,1.69E-05
+ASV555,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,ASV <2% abundance,None,8.70E-05,0,0,0,0,0,1.45E-05
+ASV593,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,0,0,0,0,8.70E-05,0,1.45E-05
+ASV501,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonadaceae_unclassified,ASV <2% abundance,None,0,0,8.70E-05,0,0,0,1.45E-05
+ASV572,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolinea,ASV <2% abundance,None,0,0,4.35E-05,4.35E-05,0,0,1.45E-05
+ASV587,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,8.70E-05,0,0,0,0,0,1.45E-05
+ASV625,Bacteria,Chlamydiae,Chlamydiae,Chlamydiales,Chlamydiales_unclassified,Chlamydiales_unclassified,ASV <2% abundance,None,0,8.70E-05,0,0,0,0,1.45E-05
+ASV564,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,8.70E-05,0,0,0,0,0,1.45E-05
+ASV623,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Ornatilinea,ASV <2% abundance,None,0,8.70E-05,0,0,0,0,1.45E-05
+ASV585,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium,ASV <2% abundance,None,8.70E-05,0,0,0,0,0,1.45E-05
+ASV547,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminiclostridium_9,ASV <2% abundance,None,8.70E-05,0,0,0,0,0,1.45E-05
+ASV581,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Sphaerochaeta,ASV <2% abundance,None,0,0,0,8.70E-05,0,0,1.45E-05
+ASV537,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,0,0,0,0,0,7.25E-05,1.21E-05
+ASV556,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,7.25E-05,0,0,0,0,0,1.21E-05
+ASV584,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0,0,0,0,0,7.25E-05,1.21E-05
+ASV579,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia_unclassified,Bacteroidia_unclassified,Bacteroidia_unclassified,ASV <2% abundance,None,0,0,4.35E-05,2.90E-05,0,0,1.21E-05
+ASV612,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0,0,0,7.25E-05,0,1.21E-05
+ASV627,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Dehalobacterium,ASV <2% abundance,None,0,0,7.25E-05,0,0,0,1.21E-05
+ASV632,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Domibacillus,ASV <2% abundance,None,0,0,0,7.25E-05,0,0,1.21E-05
+ASV619,Bacteria,Bacteroidetes,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,ASV <2% abundance,None,0,0,0,0,0,7.25E-05,1.21E-05
+ASV591,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Paludibacteraceae,Paludibacter,ASV <2% abundance,None,0,0,2.90E-05,0,0,4.35E-05,1.21E-05
+ASV554,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcaceae_unclassified,ASV <2% abundance,None,0,0,0,7.25E-05,0,0,1.21E-05
+ASV553,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_Incertae_Sedis,Proteiniborus,ASV <2% abundance,None,0,0,0,7.25E-05,0,0,1.21E-05
+ASV562,Bacteria,Firmicutes,Clostridia,Clostridiales,Family_XI,Sedimentibacter,ASV <2% abundance,None,0,0,0,0,2.90E-05,4.35E-05,1.21E-05
+ASV613,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,5.80E-05,0,0,0,0,0,9.66E-06
+ASV616,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0,0,0,5.80E-05,0,0,9.66E-06
+ASV605,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolineaceae_unclassified,ASV <2% abundance,None,0,0,0,0,5.80E-05,0,9.66E-06
+ASV633,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Dehalobacterium,ASV <2% abundance,None,0,0,0,0,5.80E-05,0,9.66E-06
+ASV664,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Dysgonomonadaceae_unclassified,ASV <2% abundance,None,0,0,0,2.90E-05,0,2.90E-05,9.66E-06
+ASV667,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,0,0,0,5.80E-05,9.66E-06
+ASV634,Bacteria,Spirochaetes,Leptospirae,Leptospirales,Leptospiraceae,Leptonema,ASV <2% abundance,None,0,0,0,0,5.80E-05,0,9.66E-06
+ASV654,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylococcaceae_unclassified,ASV <2% abundance,None,0,5.80E-05,0,0,0,0,9.66E-06
+ASV608,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae_1,Oxobacter,ASV <2% abundance,None,0,0,5.80E-05,0,0,0,9.66E-06
+ASV628,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0,0,2.90E-05,2.90E-05,0,0,9.66E-06
+ASV640,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,ASV <2% abundance,None,0,0,0,5.80E-05,0,0,9.66E-06
+ASV621,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobiaceae_unclassified,ASV <2% abundance,None,5.80E-05,0,0,0,0,0,9.66E-06
+ASV618,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Rugamonas,ASV <2% abundance,None,0,0,0,0,0,5.80E-05,9.66E-06
+ASV650,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV645,Bacteria,Actinobacteria,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,ASV <2% abundance,None,0,0,0,0,0,4.35E-05,7.25E-06
+ASV660,Bacteria,Actinobacteria,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,ASV <2% abundance,None,0,0,0,4.35E-05,0,0,7.25E-06
+ASV666,Bacteria,Actinobacteria,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,Actinobacteria_unclassified,ASV <2% abundance,None,0,0,0,0,4.35E-05,0,7.25E-06
+ASV578,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0,4.35E-05,0,0,0,7.25E-06
+ASV629,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales_unclassified,Bacteroidales_unclassified,ASV <2% abundance,None,0,0,1.45E-05,2.90E-05,0,0,7.25E-06
+ASV677,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia_unclassified,Bacteroidia_unclassified,Bacteroidia_unclassified,ASV <2% abundance,None,0,0,0,4.35E-05,0,0,7.25E-06
+ASV551,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Betaproteobacteriales_unclassified,Betaproteobacteriales_unclassified,ASV <2% abundance,None,0,0,4.35E-05,0,0,0,7.25E-06
+ASV615,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0,0,4.35E-05,0,0,7.25E-06
+ASV558,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV637,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,4.35E-05,0,0,0,7.25E-06
+ASV671,Bacteria,Proteobacteria,Gammaproteobacteria,Gammaproteobacteria_unclassified,Gammaproteobacteria_unclassified,Gammaproteobacteria_unclassified,ASV <2% abundance,None,0,4.35E-05,0,0,0,0,7.25E-06
+ASV606,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,GCA-900066225,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV635,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prolixibacteraceae,Mangrovibacterium,ASV <2% abundance,None,0,0,0,0,0,4.35E-05,7.25E-06
+ASV567,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methyloligellaceae,Methyloligella,ASV <2% abundance,None,2.90E-05,0,0,1.45E-05,0,0,7.25E-06
+ASV648,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Nannocystaceae,Nannocystis,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV636,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Petrimonas,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV678,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0,0,0,4.35E-05,0,0,7.25E-06
+ASV668,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_UCG-010,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV573,Bacteria,Acidobacteria,Acidobacteriia,Solibacterales,Solibacteraceae_(Subgroup_3),Solibacteraceae_(Subgroup_3)_unclassified,ASV <2% abundance,None,0,0,0,4.35E-05,0,0,7.25E-06
+ASV649,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae_(Subgroup_1),Telmatobacter,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV651,Bacteria,Halanaerobiaeota,Halanaerobiia,Halanaerobiales,Halobacteroidaceae,uncultured,ASV <2% abundance,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV609,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Acetanaerobacterium,ASV <2% abundance,None,0,0,0,2.90E-05,0,0,4.83E-06
+ASV669,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,2.90E-05,0,0,0,0,0,4.83E-06
+ASV688,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,2.90E-05,0,0,0,0,0,4.83E-06
+ASV659,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillales_unclassified,Bacillales_unclassified,ASV <2% abundance,None,0,0,0,2.90E-05,0,0,4.83E-06
+ASV582,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Burkholderiaceae,Burkholderiaceae_unclassified,ASV <2% abundance,None,0,0,0,0,2.90E-05,0,4.83E-06
+ASV658,Bacteria,Planctomycetes,Planctomycetacia,Pirellulales,Pirellulaceae,Candidatus_Anammoximicrobium,ASV <2% abundance,None,0,0,2.90E-05,0,0,0,4.83E-06
+ASV683,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Caulobacteraceae,Caulobacteraceae_unclassified,ASV <2% abundance,None,0,0,0,0,0,2.90E-05,4.83E-06
+ASV583,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Dehalobacterium,ASV <2% abundance,None,0,0,0,0,0,2.90E-05,4.83E-06
+ASV673,Bacteria,Proteobacteria,Gammaproteobacteria,Gammaproteobacteria_unclassified,Gammaproteobacteria_unclassified,Gammaproteobacteria_unclassified,ASV <2% abundance,None,0,0,2.90E-05,0,0,0,4.83E-06
+ASV684,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Papillibacter,ASV <2% abundance,None,0,0,0,0,0,2.90E-05,4.83E-06
+ASV689,Bacteria,Proteobacteria,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,Proteobacteria_unclassified,ASV <2% abundance,None,0,2.90E-05,0,0,0,0,4.83E-06
+ASV680,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae_unclassified,ASV <2% abundance,None,0,0,0,2.90E-05,0,0,4.83E-06
+ASV698,Bacteria,Lentisphaerae,Lentisphaeria,Victivallales,Victivallaceae,Victivallaceae_ge,ASV <2% abundance,None,0,0,0,0,2.90E-05,0,4.83E-06
+ASV692,Bacteria,Planctomycetes,Phycisphaerae,Tepidisphaerales,WD2101_soil_group,WD2101_soil_group_ge,ASV <2% abundance,None,0,0,2.90E-05,0,0,0,4.83E-06
+ASV655,Bacteria,Chloroflexi,Anaerolineae,Anaerolineales,Anaerolineaceae,Anaerolineaceae_unclassified,ASV <2% abundance,None,0,0,1.45E-05,0,0,0,2.42E-06
+ASV687,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Angelakisella,ASV <2% abundance,None,1.45E-05,0,0,0,0,0,2.42E-06
+ASV672,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0,1.45E-05,0,0,0,2.42E-06
+ASV694,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified,ASV <2% abundance,None,0,0,1.45E-05,0,0,0,2.42E-06
+ASV701,Bacteria,Proteobacteria,Gammaproteobacteria,Betaproteobacteriales,Betaproteobacteriales_unclassified,Betaproteobacteriales_unclassified,ASV <2% abundance,None,0,1.45E-05,0,0,0,0,2.42E-06
+ASV695,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Cellulosilyticum,ASV <2% abundance,None,0,0,0,1.45E-05,0,0,2.42E-06
+ASV663,Bacteria,Firmicutes,Clostridia,Clostridia_unclassified,Clostridia_unclassified,Clostridia_unclassified,ASV <2% abundance,None,0,0,0,1.45E-05,0,0,2.42E-06
+ASV700,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Cryptanaerobacter,ASV <2% abundance,None,0,0,0,0,0,1.45E-05,2.42E-06
+ASV681,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,0,0,1.45E-05,0,2.42E-06
+ASV682,Bacteria,Firmicutes,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,Firmicutes_unclassified,ASV <2% abundance,None,0,0,0,0,1.45E-05,0,2.42E-06
+ASV702,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Lysinibacillus,ASV <2% abundance,None,0,0,0,1.45E-05,0,0,2.42E-06
+ASV693,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Macellibacteroides,ASV <2% abundance,None,0,0,1.45E-05,0,0,0,2.42E-06
+ASV646,Bacteria,Planctomycetes,Planctomycetacia,Pirellulales,Pirellulaceae,Pirellulaceae_unclassified,ASV <2% abundance,None,0,0,0,0,0,1.45E-05,2.42E-06
+ASV697,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcaceae_unclassified,ASV <2% abundance,None,0,0,0,1.45E-05,0,0,2.42E-06
+ASV675,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Dysgonomonadaceae,Proteiniphilum,ASV <2% abundance,None,0,0,1.45E-05,0,0,0,2.42E-06
+ASV656,Bacteria,Spirochaetes,Spirochaetia,Spirochaetales,Spirochaetaceae,Spirochaetaceae_unclassified,ASV <2% abundance,None,0,0,1.45E-05,0,0,0,2.42E-06
+ASV685,Bacteria,Firmicutes,Bacilli,Bacillales,Sporolactobacillaceae,uncultured,ASV <2% abundance,None,0,0,0,0,0,1.45E-05,2.42E-06
+ASV8,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.001463768,0.007637681,0.060014493,0.054855072,0.007362319,0.02026087,0.0252657
+ASV10,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.001173913,0.005202899,0.047463768,0.041521739,0.005768116,0.015507246,0.019439614
+ASV32,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.022463768,0.004826087,0,0,0,0,0.004548309
+ASV46,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0.026144928,0,0,0,0,0.004357488
+ASV41,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.01515942,0.004434783,0,0,0,0,0.0032657
+ASV45,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.001608696,0.001956522,0.005782609,0.004304348,0.002275362
+ASV47,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000144928,0.000173913,0.00473913,0.005289855,0.001869565,0.001072464,0.002214976
+ASV54,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.007768116,0.004492754,7.25E-05,0.00015942,0,8.70E-05,0.002096618
+ASV66,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.003449275,0.007797101,0.000289855,0.000173913,7.25E-05,0,0.001963768
+ASV95,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0.00884058,0,0,0,0,0.00147343
+ASV97,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.002,0.004202899,0.000202899,0.00015942,0.000202899,0,0.001128019
+ASV77,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000608696,0.000753623,0.001101449,0.001782609,0.00142029,0.00084058,0.001084541
+ASV80,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0.000173913,0.000652174,0.001028986,0.001623188,0.002188406,0.000944444
+ASV135,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000971014,0.002,0.00026087,0.000333333,0.00026087,0.000101449,0.000654589
+ASV138,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.002536232,0.000768116,0,0,0,0,0.000550725
+ASV126,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000217391,0.000318841,0.001188406,0.001347826,0.000512077
+ASV151,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000826087,0.00157971,0,0,0.000400966
+ASV147,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000231884,0.000565217,0.000855072,0.000376812,0.000338164
+ASV205,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.001405797,0.000333333,0,0,0,0,0.000289855
+ASV183,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000391304,0.000492754,0.000405797,0.000289855,0.000263285
+ASV222,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.001463768,0,0,0,0,0,0.000243961
+ASV255,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000550725,0.000434783,5.80E-05,0,2.90E-05,0,0.000178744
+ASV219,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,7.25E-05,0.000318841,0.000231884,0.000362319,0.000164251
+ASV238,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0.000217391,0.00015942,0.000246377,0.000217391,7.25E-05,0.000152174
+ASV331,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0.000826087,1.45E-05,0,0,0,0.000140097
+ASV298,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000695652,0,0,0,0,0,0.000115942
+ASV348,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000115942,0.000434783,5.80E-05,0,0,1.45E-05,0.000103865
+ASV311,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000217391,0.000362319,0,0,9.66E-05
+ASV337,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.00015942,0,8.70E-05,0.000188406,0.000101449,4.35E-05,9.66E-05
+ASV314,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000565217,0,0,0,0,0,9.42E-05
+ASV369,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000130435,0.000130435,0.000246377,0,8.45E-05
+ASV339,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0.00015942,0.000101449,0.000188406,7.49E-05
+ASV390,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0.00026087,8.70E-05,8.70E-05,0,0,7.25E-05
+ASV430,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000376812,0,0,0,0,0,6.28E-05
+ASV396,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000318841,0,0,0,0,4.35E-05,6.04E-05
+ASV399,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0,0.000144928,0.000202899,5.80E-05
+ASV431,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000101449,0.000231884,0,0,0,0,5.56E-05
+ASV424,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.00026087,0,0,0,0,0,4.35E-05
+ASV407,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000246377,0,0,0,0,0,4.11E-05
+ASV456,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000231884,0,0,0,3.86E-05
+ASV496,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0,0.000101449,8.70E-05,3.14E-05
+ASV481,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000115942,0,0,0,4.35E-05,0,2.66E-05
+ASV538,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.00015942,0,0,0,0,0,2.66E-05
+ASV526,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0.000130435,0,0,2.17E-05
+ASV552,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0.000130435,0,0,0,2.17E-05
+ASV563,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0.000130435,0,0,0,0,0,2.17E-05
+ASV464,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,4.35E-05,2.90E-05,4.35E-05,0,1.93E-05
+ASV544,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0.000115942,0,0,1.93E-05
+ASV603,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,7.25E-05,0,0,1.21E-05
+ASV604,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0,7.25E-05,0,1.21E-05
+ASV611,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,7.25E-05,0,0,1.21E-05
+ASV620,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0,0,7.25E-05,1.21E-05
+ASV639,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,5.80E-05,0,0,0,9.66E-06
+ASV589,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,4.35E-05,0,0,0,7.25E-06
+ASV596,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,4.35E-05,0,0,0,0,0,7.25E-06
+ASV641,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,4.35E-05,0,0,7.25E-06
+ASV647,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0,0,4.35E-05,7.25E-06
+ASV661,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,4.35E-05,0,0,7.25E-06
+ASV630,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,2.90E-05,0,0,4.83E-06
+ASV631,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,2.90E-05,0,0,4.83E-06
+ASV642,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,2.90E-05,0,0,4.83E-06
+ASV644,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,0,0,0,0,2.90E-05,0,4.83E-06
+ASV686,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiales_unclassified,Clostridiales_unclassified,Clostridiales_unclassified,None,1.45E-05,0,0,0,0,0,2.42E-06
+ASV3,Bacteria,Bacteroidetes,Bacteroidia,Sphingobacteriales,Lentimicrobiaceae,Lentimicrobium,Lentimicrobium,None,0.000565217,0.000231884,0.093637681,0.09773913,0.129086957,0.134231884,0.075915459
+ASV590,Bacteria,Bacteroidetes,Bacteroidia,Sphingobacteriales,Lentimicrobiaceae,Lentimicrobium,Lentimicrobium,None,0,0,8.70E-05,0,1.45E-05,0,1.69E-05
+ASV4,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga,None,0.001188406,0.000521739,0.02984058,0.059666667,0.05173913,0.034681159,0.02960628
+ASV13,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga,None,0.00073913,0,0.013347826,0.028811594,0.020782609,0.013463768,0.012857488
+ASV643,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga,None,0,0,0,0,2.90E-05,0,4.83E-06
+ASV1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanogenic archaea,Methanogenic archaea,0.212289855,0.119797101,0.307797101,0.287695652,0.289086957,0.314985507,0.255275362
+ASV2,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanogenic archaea,Methanogenic archaea,0.107565217,0.048826087,0.15026087,0.138101449,0.134115942,0.146536232,0.120900966
+ASV36,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanogenic archaea,Methanogenic archaea,0.001130435,0.008942029,0.001231884,0.001362319,0.004536232,0.004768116,0.003661836
+ASV251,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobia_unclassified,Methanomicrobia_unclassified,Methanomicrobia_unclassified,Methanogenic archaea,Methanogenic archaea,0,0,0.000376812,0.000202899,8.70E-05,8.70E-05,0.000125604
+ASV325,Archaea,Euryarchaeota,Thermoplasmata,Methanomassiliicoccales,Methanomassiliicoccaceae,uncultured,Methanogenic archaea,Methanogenic archaea,0,0,8.70E-05,8.70E-05,8.70E-05,0.000188406,7.49E-05
+ASV428,Archaea,Euryarchaeota,Thermococci,Methanofastidiosales,Methanofastidiosaceae,Candidatus_Methanofastidiosum,Methanogenic archaea,Methanogenic archaea,0,0,8.70E-05,8.70E-05,2.90E-05,0,3.38E-05
+ASV653,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanosarcina,Methanogenic archaea,Methanogenic archaea,0,5.80E-05,0,0,0,0,9.66E-06
+ASV657,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,Methanomethylovorans,Methanogenic archaea,Methanogenic archaea,0,0,1.45E-05,0,0,0,2.42E-06
+ASV33,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadales_unclassified,Desulfuromonadales_unclassified,SRB,SRB,0.00415942,0.026463768,0.000913043,0.000913043,0.001072464,0.00015942,0.005613527
+ASV28,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfocurvus,SRB,SRB,0,0,0.009768116,0.008,0.006869565,0.003724638,0.004727053
+ASV31,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfobacteraceae_unclassified,SRB,SRB,0.000188406,0.000478261,0.005971014,0.007014493,0.005043478,0.003594203,0.003714976
+ASV49,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfocurvus,SRB,SRB,0,0,0.002217391,0.002202899,0.003144928,0.004797101,0.002060386
+ASV82,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,SRB,SRB,0.002695652,0.002753623,0.000782609,0.000637681,0.000246377,0.000144928,0.001210145
+ASV86,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,SRB,SRB,0.002811594,0.002333333,0.000724638,0.000898551,0.000202899,0,0.001161836
+ASV107,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadales_unclassified,Desulfuromonadales_unclassified,SRB,SRB,0.00442029,0.00026087,0,0,0.000144928,0,0.000804348
+ASV123,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,SRB,SRB,8.70E-05,7.25E-05,0.001043478,0.001217391,0.000478261,0.000318841,0.000536232
+ASV133,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfobulbaceae_unclassified,SRB,SRB,0,0,0.000797101,0.000826087,0.000478261,0.000811594,0.000485507
+ASV161,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,SRB,SRB,0.001101449,0.000942029,0.000275362,0.000231884,0.000173913,0,0.000454106
+ASV172,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,SRB,SRB,0.001014493,0.000913043,0.000246377,0.000188406,0.000101449,0,0.000410628
+ASV171,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,SRB,SRB,0.000898551,0.000884058,0.000275362,0.00015942,7.25E-05,8.70E-05,0.000396135
+ASV194,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,SRB,SRB,0.000956522,0.000927536,0.000144928,0,0,0,0.000338164
+ASV196,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophaceae,Desulfobacca,SRB,SRB,0.000318841,0.001072464,0.00015942,0.000173913,0.000101449,7.25E-05,0.000316425
+ASV176,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfobacteraceae_unclassified,SRB,SRB,0,0,0.000608696,0.000391304,0.000521739,0.000202899,0.00028744
+ASV189,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulfobulbaceae_unclassified,SRB,SRB,0,0,0.000318841,0.000333333,0.000405797,0.000318841,0.000229469
+ASV211,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Desulfuromonadales_unclassified,Desulfuromonadales_unclassified,SRB,SRB,0.000492754,0,0.000246377,0.000318841,0.000246377,0,0.000217391
+ASV259,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,SRB,SRB,0.000318841,0.000405797,7.25E-05,0,0.00015942,0.000115942,0.000178744
+ASV240,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfoluna,SRB,SRB,0,0,0.000144928,7.25E-05,0.000478261,0.000231884,0.000154589
+ASV373,Bacteria,Nitrospirae,Thermodesulfovibrionia,uncultured,uncultured_fa,uncultured_ge,SRB,SRB,0,0.000710145,0,0,0,0,0.000118357
+ASV323,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionales_unclassified,Desulfovibrionales_unclassified,SRB,SRB,0.000550725,0,0,0,0,0,9.18E-05
+ASV372,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfotomaculum,SRB,SRB,5.80E-05,0.000101449,4.35E-05,0.000144928,2.90E-05,1.45E-05,6.52E-05
+ASV379,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfoluna,SRB,SRB,0,0,1.45E-05,8.70E-05,0.000130435,8.70E-05,5.31E-05
+ASV391,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobacteraceae,Desulfoluna,SRB,SRB,0,0,0.000101449,0.000101449,2.90E-05,0,3.86E-05
+ASV624,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfomicrobiaceae,Desulfomicrobium,SRB,SRB,0,8.70E-05,0,0,0,0,1.45E-05
+ASV7,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Syner-01,Syner-01,None,0.00957971,0.003811594,0.038623188,0.040144928,0.041884058,0.014913043,0.024826087
+ASV96,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Syner-01,Syner-01,None,0,0,0.000608696,0.000623188,0.002478261,0.000826087,0.000756039
+ASV270,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Syner-01,Syner-01,None,0,0,0,0,0.00057971,0,9.66E-05
+ASV458,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Syner-01,Syner-01,None,0,0,0,0,0.000173913,0,2.90E-05
+ASV9,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophic bacteria,Syntrophic bacteria,0.000217391,0.000289855,0.042391304,0.029478261,0.014347826,0.044217391,0.021823671
+ASV59,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Syntrophic bacteria,Syntrophic bacteria,0,0,0.000753623,0.000855072,0.002594203,0.00342029,0.001270531
+ASV382,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfuromonadales,Geobacteraceae,Geobacter,Syntrophic bacteria,Syntrophic bacteria,0,0,0,0,8.70E-05,0.000304348,6.52E-05
+ASV383,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophic bacteria,Syntrophic bacteria,0,0,0.000173913,0.000115942,0,0,4.83E-05
+ASV536,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacteraceae_unclassified,Syntrophic bacteria,Syntrophic bacteria,0,0,0,0.000101449,0,0,1.69E-05
+ASV652,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophic bacteria,Syntrophic bacteria,0,5.80E-05,0,0,0,0,9.66E-06
+ASV580,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacteraceae_unclassified,Syntrophic bacteria,Syntrophic bacteria,0,0,4.35E-05,1.45E-05,0,0,9.66E-06
+ASV602,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacteraceae_unclassified,Syntrophic bacteria,Syntrophic bacteria,0,0,0,2.90E-05,0,0,4.83E-06
+ASV6,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Thermovirga,Thermovirga,None,0,0,0.005173913,0.010536232,0.068594203,0.055724638,0.023338164
+ASV699,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Thermovirga,Thermovirga,None,0,0,0,0,0,1.45E-05,2.42E-06

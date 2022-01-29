@@ -6,7 +6,7 @@ Repository associated with the publication:
 
 Aracely Zambrano-Romero, Dario X. Ramirez-Villacis, Gabriel Trueba, Reyes Sierra-Alvarez, Antonio Leon-Reyes, Paul Cardenas, Valeria Ochoa-Herrera 
 
-DOI:
+DOI: https://doi.org/10.3390/ijerph19031484
 
 If you need futher information please contact [dxramirez@usfq.edu.ec](mailto:dxramirez@usfq.edu.ec)
 
